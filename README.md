@@ -1,4 +1,4 @@
-# salikalkan4466
+# salihalkan4466
 git clone https://github.com/Enes4xd/salihalkan4466.git
 git clone https://github.com/Enes4xd/salihalkan4466
 public class PersistentRegistryData
