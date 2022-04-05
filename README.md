@@ -1,6 +1,6 @@
 # salihalkan4466
-git clone https://github.com/Enes4xd/salihalkan4466.git
-git clone https://github.com/Enes4xd/salihalkan4466
+git clone https://github.com/Enes4xd/salih._6644.git
+git clone https://github.com/Enes4xd/salih_.6644
 public class PersistentRegistryData
 {
     public PersistentRegistryCmds cmd;
